@@ -2,6 +2,8 @@
 
 This repository provides simple examples demonstrating usage of the CyberSource Flex SDK using either a headless JavaScript call (flex-js-sample) or a fully customizable hosted field/microform which is incorporated into your checkout page (flex-microform-sample).  For more details on Secure Acceptance Flex visit our Developer Guide at https://developer.cybersource.com/api/developer-guides/dita-flex/SAFlexibleToken.html
 
+![Visualization of the codebase](./diagram.svg)
+
 ## Usage
 
 1. Clone or download this repository.
